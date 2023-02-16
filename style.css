@@ -8,6 +8,10 @@ a {
     text-decoration: none;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 main{
     width: 1160px;
     margin: 0 auto;
